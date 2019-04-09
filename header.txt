@@ -1,0 +1,6 @@
+<a href="home.html">Home</a>
+<!--<a href="#home.html">Home</a> -->
+<a href="about_me.html">About Me</a>
+<a href="professional.html">Resume</a>
+<a href="tech_projects.html">Technical Projects</a>
+<a href="school.html">School</a>

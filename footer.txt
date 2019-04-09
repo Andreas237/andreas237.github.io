@@ -1,0 +1,2 @@
+<p>Get in touch</p>
+<p>Email <a class="foot" href="mailto:andreas.slovacek@gmail.com">andreas.slovacek@gmail.com</a></p>
