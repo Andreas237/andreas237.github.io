@@ -1,0 +1,12 @@
+This dude's template is the one:
+- https://github.com/tbakerx/react-resume-template
+- http://www.timbakerdev.com/
+
+
+Building the project, it works on my laptop:
+- https://docs.travis-ci.com/user/languages/javascript-with-nodejs/
+- https://medium.com/@abventures/how-to-build-a-react-website-in-aws-within-15-minutes-9e9c37f85aeb
+
+I need to setup a pipeline from Github to my S3 bucket:
+- https://aws.amazon.com/about-aws/whats-new/2017/09/connect-your-git-repository-to-amazon-s3-and-aws-services-using-webhooks-and-new-quick-start/
+- https://lab.github.com/

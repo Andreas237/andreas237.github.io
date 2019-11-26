@@ -4,11 +4,11 @@
     "occupation":"Cyber Security Researcher",
     "description":"Software developer in search of new and interesting challenges- especially those surrounding software defined radio.  Overseas opportunities preferred!",
     "image":"profilepic.jpg",
-    "bio":"I'm constantly in search of new information.  Data communication and networking is infinitely interesting, I think I missed my calling in electrical/computer engineering.  As such studying software defined radios, encryption systems, jamming, cancelling, and signal measures.  Before these I developed my passion for software development and computational mathematics.  Outside of technology my next interests are learning languages and being outside.  I spend a lot of time in the woods- backing, hiking, running, rucking, and wildlife watching.  Languages and communications in unfamiliar cultures are very interesting.  In my past I've studied Arabic, Hindi, Russian and Urdu; to this day I still study French.  Hopefully in the future I'll be able to practice these with local speakers.",
+    "bio":"I'm constantly in search of new information.  Data communication and networking is infinitely interesting, which has me thinking I missed my calling in electrical/computer engineering.  As such, studying software defined radios, encryption systems, jamming, cancelling, and signal measures are my latest hobbies and areas of research.  Before these I developed a passion for software development and computational mathematics.  Outside of technology my interests lie learning languages and being outside.  I spend a lot of time in the woods: backpacking, hiking, running, rucking, and wildlife watching.  Languages and communications in unfamiliar cultures are very interesting.  In my past I've studied Arabic, Hindi, Russian and Urdu; to this day I still study French.  Hopefully in the future I'll be able to practice these with local speakers.",
     "contactmessage":"Send me a message!  I'd love to connect.",
     "email": "andreas.slovacek@gmail.com",
     "website": "http://www.andreasslovacek.com",
-    "resumedownload":"https://s3-us-west-2.amazonaws.com/andreasslovacek.com/files/resume.pdf",
+    "resumedownload":"https://s3-us-west-2.amazonaws.com/andreasslovacek.com/AndreasSlovacekResume.pdf",
     "social":[
 
       {
@@ -64,6 +64,12 @@
         "title":"Junior Developer",
         "years":"February 2018 - April 2018",
         "description":"IntegrationWorks offered me the opportunity to evaluate software for customer implementation. From certifications in Dell Boomi, to API Gateway configuration in CA Technologies; from developing an database-to-email marketing server to deploying with Puppet and Ansible. This opportunity took my developer tool-belt from the classroom to the field."
+      },
+      {
+         "company":"Resting and Recuperating",
+         "title":"N/A",
+         "years":"June 2017 - February 2018",
+         "description":"After leaving Mulesoft I moved to Prague for several months to audit classes at Charles University.  Grad school was on my mind, and Charles is an excellent school, however many colleagues pointed out that internship opportunities would be easier to come by in the U.S..  My then girlfriend, now wife, was living in Sydney, Australia so I moved to be with her.  Sydney is a fantastic city.  I utilized Meetup.com extensively to network in Sydney's tech scene."
       },
       {
          "company":"MuleSoft Inc.",
@@ -138,7 +144,7 @@
       {
         "title":"Forbes Scraper in Python",
         "category":"Genesis: I was at work in summer of 2016 (maybe my memory is foggy) when I overheard a coworker saying \"I guess I better get cracking filling in this excel.\" It wasn't an uncommon thing to hear working in finance, but hearing that in conjunction with the Salesforce admin saying \"I'm sorry bro, I couldn't solve it.\" piqued my interest.  Problem: We needed to gather demographic data on the Forbes top 2000. We didn't have access to any Forbes API, just a list of websites.  Solution: Having recently completed a Python project using the Google Maps API a web scraper was created, with data processing after.  It was hammered out in a night, hence not being super clean.",
-        "image":"forbes.png",
+        "image":"Forbes30u30.jpg",
         "url":"https://github.com/Andreas237/Forbes2000_Scraper"
       }
     ]

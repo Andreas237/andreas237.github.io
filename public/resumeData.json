@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Andreas Slovacek",
+    "occupation":"Cyber Security Researcher",
+    "description":"Currently projects surrounding software defined radio are winning all my attention.  I'm always in search of new challenges and opportunities.  Especially overseas opportunities preferred!",
+    "image":"profilepic.jpg",
+    "bio":"I'm constantly in search of new information.  Data communication and networking is infinitely interesting, which has me thinking I missed my calling in electrical/computer engineering.  As such, studying software defined radios, encryption systems, jamming, cancelling, and signal measures are my latest hobbies and areas of research.  Before these I developed a passion for software development and computational mathematics.  Outside of technology my interests lie learning languages and being outside.  I spend a lot of time in the woods: backpacking, hiking, running, rucking, and wildlife watching.  Languages and communications in unfamiliar cultures are very interesting.  In my past I've studied Arabic, Hindi, Russian and Urdu; to this day I still study French.  Hopefully in the future I'll be able to practice these with local speakers.",
+    "contactmessage":"Send me a message!  I'd love to connect.",
+    "email": "andreas.slovacek@gmail.com",
+    "website": "http://www.andreasslovacek.com",
+    "resumedownload":"https://s3-us-west-2.amazonaws.com/andreasslovacek.com/AndreasSlovacekResume.pdf",
+    "social":[
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andreasslovacek/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Andreas237",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Colorado Colorado Springs",
+        "degree":"Masters of Science in Computer Science",
+        "graduated":"May 2020",
+        "description":"Focus in cyber security areas of software defined radio, digital communication, penetration testing, research, and system administration."
+      },
+      {
+        "school":"California State University East Bay",
+        "degree":"Bachelors of Science in Computer Science",
+        "graduated":"March 2016",
+        "description":"Focus in computer communication, data structures & algorithms, programming language concepts, and computational math."
+      },
+      {
+        "school":"University of California Davis",
+        "degree":"Bachelors of Science in Mathematical and Computational Science",
+        "graduated":"June 2012",
+        "description":"Focus on numerical programming for differential equations, linear algebra, and probability."
+      }
+    ],
+    "work":[
+      {
+          "company":"University of Colorado Colorado Springs",
+          "title":"Scholarship Winner",
+          "years":"August 2019 - Present",
+          "description":"I received a full ride scholarship which is allowing me to focus on research and my thesis."
+
+      },
+      {
+        "company":"University of Colorado Colorado Springs",
+        "title":"Graduate Research Assistant",
+        "years":"December 2018 - June 2019",
+        "description":"Research Android app security features, and implement/modify both the Android app code and permission management component, for the purpose of enforcing privacy and security policies mandated by IRB.  Contribute to the writing of research papers, design workflow/process, publish web pages, organize Github, and generally document the project."
+      },
+      {
+        "company":"IntegrationWorks",
+        "title":"Junior Developer",
+        "years":"February 2018 - April 2018",
+        "description":"IntegrationWorks offered me the opportunity to evaluate software for customer implementation. From certifications in Dell Boomi, to API Gateway configuration in CA Technologies; from developing an database-to-email marketing server to deploying with Puppet and Ansible. This opportunity took my developer tool-belt from the classroom to the field."
+      },
+      {
+         "company":"Resting and Recuperating",
+         "title":"N/A",
+         "years":"June 2017 - February 2018",
+         "description":"After leaving Mulesoft I moved to Prague for several months to audit classes at Charles University.  Grad school was on my mind, and Charles is an excellent school, however many colleagues pointed out that internship opportunities would be easier to come by in the U.S..  My then girlfriend, now wife, was living in Sydney, Australia so I moved to be with her.  Sydney is a fantastic city.  I utilized Meetup.com extensively to network in Sydney's tech scene."
+      },
+      {
+         "company":"MuleSoft Inc.",
+         "title":"Sales Operations Manager",
+         "years":"February 2015 - June 2017",
+         "description":"Businessy-business role.  As a Sales Operations Manager I had the opportunity to work closely with the Vice President of Asia Sales and his management team. Through their mentorship I was able to help the team grow their output by double digits year-over-year. Additionally, my technical skills allowed me to continue reporting and automating in and out of Salesforce to reduce time spent on tasks such as data entry."
+      },
+      {
+         "company":"TIBCO Software Inc.",
+         "title":"Marketing Analyst",
+         "years":"July 2012 - February 2015",
+         "description":"Entry-level businessy-business. As a relatively new employee the opportunity to implement the a project management system which helped me understand how a department of hundreds dispersed around the globe can and should function. Administering Marketo and Salesforce developed my knowledge of being a system administrator."
+      }
+    ],
+    "skills":[
+      {
+          "name":"C/C++",
+          "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"Debian",
+        "level":"85%"
+      },
+      {
+        "name":"Red Hat",
+        "level":"80%"
+      },
+      {
+        "name":"Aircrack-ng",
+        "level":"65%"
+      },
+      {
+        "name":"Burp Suite",
+        "level":"50%"
+      },
+      {
+        "name":"Wireshark",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Bay Area Rapid Transit Android-Java",
+        "category":"This was the final project presented by myself and team (Github: BeginnerDave, DanielJacob, joeender, SirhcG) for Software Engineering I (CS4310) at Cal State East Bay. We decided to do an Android app using an open API because none of us had used these technologies before. It took us eight weeks, but we managed to have most of the endpoints covered, and a nice looking user interface. Personally I build the functionality out for getting train routes and details. Learning about XML and Document Builder Factory were my biggest points of satisfaction. Other than that it was another cup of Java. ",
+        "image":"bart.jpg",
+        "url":"https://github.com/Andreas237/BART_API"
+      },
+      {
+        "title":"Google Maps API in Python",
+        "category":"Use the Google Maps API in Python to check the distance \"as the crow flies\" between to cities. This was a fun project and dive back into Python. Hopefully my structure isn't too sloppy! I hacked this thing together in a night for a job prospect.",
+        "image":"united-states-physical-map-large.jpg",
+        "url":"https://github.com/Andreas237/GoogleMapsPython"
+      },
+      {
+        "title":"Forbes Scraper in Python",
+        "category":"Genesis: I was at work in summer of 2016 (maybe my memory is foggy) when I overheard a coworker saying \"I guess I better get cracking filling in this excel.\" It wasn't an uncommon thing to hear working in finance, but hearing that in conjunction with the Salesforce admin saying \"I'm sorry bro, I couldn't solve it.\" piqued my interest.  Problem: We needed to gather demographic data on the Forbes top 2000. We didn't have access to any Forbes API, just a list of websites.  Solution: Having recently completed a Python project using the Google Maps API a web scraper was created, with data processing after.  It was hammered out in a night, hence not being super clean.",
+        "image":"Forbes30u30.jpg",
+        "url":"https://github.com/Andreas237/Forbes2000_Scraper"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Andreas is definitely a  problem solver.. always worked hard... was a SUPERB member of our team.",
+        "user":"Leslie Moore"
+      },
+      {
+        "text":"Andreas has a natural ability with technology and systems...but – just as importantly - what Andreas also brings to the team is an incredible energy and a positive attitude.",
+        "user":"Brett Hannath"
+      }
+    ]
+  }
+}
